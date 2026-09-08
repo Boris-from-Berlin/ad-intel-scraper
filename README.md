@@ -5,6 +5,8 @@ No API keys, no login: uses the public Meta Ad Library and the Google Ads Transp
 
 Built for B2B prospecting (e.g. "all aesthetic surgeons in DACH with active Meta + Google campaigns").
 
+**Deutsche Schritt-für-Schritt-Anleitung: [docs/ANLEITUNG.md](docs/ANLEITUNG.md)**
+
 ## Pipeline
 
 | Step | Script | Source | Output |
